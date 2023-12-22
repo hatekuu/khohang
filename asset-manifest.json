@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/khohang/static/css/main.528e29dd.css",
+    "main.js": "/khohang/static/js/main.3488d0ba.js",
+    "static/js/787.a138466a.chunk.js": "/khohang/static/js/787.a138466a.chunk.js",
+    "index.html": "/khohang/index.html",
+    "main.528e29dd.css.map": "/khohang/static/css/main.528e29dd.css.map",
+    "main.3488d0ba.js.map": "/khohang/static/js/main.3488d0ba.js.map",
+    "787.a138466a.chunk.js.map": "/khohang/static/js/787.a138466a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.528e29dd.css",
+    "static/js/main.3488d0ba.js"
+  ]
+}
